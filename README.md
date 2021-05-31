@@ -80,10 +80,8 @@ link: https://github.com/luanshiyinyang/awesome-multiple-object-tracking
 39. Awesome Low-light Enhancement: Papers and datasets.
 link: https://github.com/Elin24/Awesome-Low-Light-Enhancement
 40. Awesome FFmpeg: FFmpeg is a cross-platform solution to record, convert and stream audio and video.
-link: https://github.com/transitive-bullshit/awesome-ffmpeg  
-https://github.com/MarceauKa/awesome-ffmpeg
+link: https://github.com/transitive-bullshit/awesome-ffmpeg  https://github.com/MarceauKa/awesome-ffmpeg
 41. Awesome Video Captioning: A curated list of research papers in Video Captioning(from 2015 to 2020). 
 link: https://github.com/tgc1997/Awesome-Video-Captioning
 42. Awesome Visual-Transformer: Collect some Transformer with Computer-Vision (CV) papers.
-link: https://github.com/dk-liang/Awesome-Visual-Transformer  
-https://github.com/lijiaman/awesome-transformer-for-vision
+link: https://github.com/dk-liang/Awesome-Visual-Transformer  https://github.com/lijiaman/awesome-transformer-for-vision
