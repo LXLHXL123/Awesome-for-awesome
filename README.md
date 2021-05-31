@@ -1,4 +1,4 @@
-# Awesome-for-awesome
+# Awesome-for-Awesome
 
 ## Awesome space: A curated list of awesome resources, e.g. tutorials, papers, books, datasets, libraries and software.
 1. Awesome ACG: A curated list of awesome tools and projects related to anime, comics, games, light novel, visual novel, vocaloid and touhou.
