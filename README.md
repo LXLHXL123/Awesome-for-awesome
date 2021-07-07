@@ -85,3 +85,5 @@ link: https://github.com/transitive-bullshit/awesome-ffmpeg  https://github.com/
 link: https://github.com/tgc1997/Awesome-Video-Captioning
 42. Awesome Visual-Transformer: Collect some Transformer with Computer-Vision (CV) papers.
 link: https://github.com/dk-liang/Awesome-Visual-Transformer  https://github.com/lijiaman/awesome-transformer-for-vision
+43. Awesome-Cross-Modal-Video-Moment-Retrieval: 
+link: https://github.com/yawenzeng/Awesome-Cross-Modal-Video-Moment-Retrieval
