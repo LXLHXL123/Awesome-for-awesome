@@ -87,3 +87,5 @@ link: https://github.com/tgc1997/Awesome-Video-Captioning
 link: https://github.com/dk-liang/Awesome-Visual-Transformer  https://github.com/lijiaman/awesome-transformer-for-vision
 43. Awesome-Cross-Modal-Video-Moment-Retrieval: 
 link: https://github.com/yawenzeng/Awesome-Cross-Modal-Video-Moment-Retrieval
+44. Awesome-semantic-search: Aims to serve a meta-repository for Semantic Search and Semantic Similarity related tasks.
+link: https://github.com/Agrover112/awesome-semantic-search
