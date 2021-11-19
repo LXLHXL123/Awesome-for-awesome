@@ -115,3 +115,9 @@ link: https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
 link: https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
 57. Awesome-image-composition:
 link: https://github.com/bcmi/Awesome-Image-Composition
+58. Awesome-video-datasets:
+link: https://github.com/xiaobai1217/Awesome-Video-Datasets
+59. Awesome-anomaly-detection in medical images:
+link: https://github.com/ClancyZhou/awesome-anomaly-detection-in-medical-images
+60. Awesome-noisy-labels:
+link: https://github.com/songhwanjun/Awesome-Noisy-Labels
